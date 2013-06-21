@@ -22,7 +22,7 @@ As an added bit of utility it uses the Grunt team's [contrib-clean](https://gith
 ## How to install
 - Download [Nodejs](http://nodejs.org) and install it (clicky clicky GUI install).
 - If you don't already have Grunt installed you will need it. Open Terminal and run `npm install -g grunt-cli`.
-- Move to where you want SVG Gruntenstein to live and run `git clone ***`. You can call the folder what you want. It may make more sense to call it 'SVGoptimiser' for example.
+- Move to where you want SVG Gruntenstein to live and run `git clone https://github.com/benfrain/SVG-Gruntenstein.git`. You can call the folder what you want. It may make more sense to call it 'SVGoptimiser' for example.
 - Now move to the folder you have cloned this repo to and run 'npm install`. This should then auto install all the needed grunt plugin goodness.
 
 ## What 'SVG Gruntenstein' actually produces
