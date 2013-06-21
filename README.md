@@ -4,7 +4,7 @@ SVG-Gruntenstein
 A combination of the genius of others to make lean SVGs and their fallback equivalents.
 
 ## Why 'Gruntenstein'?
-The word 'Gruntenstein' has been used as this project is merely standing on the shoulders of giants. Nothing is original, it's merely the assembly of a number of amazing constituent parts into a seperate and hopefully useful thing. The name is therefore a nod (using someone elses head) to the fictional 'Frankenstein' of Mary Shelleys gothic novel.
+The word 'Gruntenstein' has been used as this project is merely standing on the shoulders of giants. Nothing is original, it's merely the assembly of a number of amazing constituent parts into a seperate and hopefully useful thing. The name is therefore a nod (using someone elses head) to the fictional 'Frankenstein' of Mary Shelley's gothic novel.
 
 ## What does it do?
 You've made SVG assets and you need data URIs, PNG versions or both. Feck me, you're in luck...
