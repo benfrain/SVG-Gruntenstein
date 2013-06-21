@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+	<rect width="800" height="800" fill="red"></rect>
+	<circle cx="400" cy="400" r="400" fill="blue"></circle>
+</svg>
