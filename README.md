@@ -25,6 +25,13 @@ As an added bit of utility it uses the Grunt team's [contrib-clean](https://gith
 - Move to where you want SVG Gruntenstein to live and run `git clone https://github.com/benfrain/SVG-Gruntenstein.git`. You can call the folder what you want. It may make more sense to call it 'SVGoptimiser' for example.
 - Now move to the folder you have cloned this repo to and run 'npm install`. This should then auto install all the needed grunt plugin goodness.
 
+## Usage instructions
+
+1. Place any SVGs into the 'svgs' folder within this project.
+2. Open this folder (e.g. 'SVGoptimiser') in the Terminal
+3. If you already have a 'pngs' folder in the root run this command `grunt clean`. That will remove any prior PNG images
+4. Now run `grunt` - after a short space of time, you should see a message `Done, without errors`. Your assets are now created.
+
 ## What 'SVG Gruntenstein' actually produces
 After running this you will have a number of assets created:
 
@@ -34,10 +41,3 @@ After running this you will have a number of assets created:
 - A CSS file containing all SVG images as data URIs (You can find the file here: 'output/icons.data.svg.css')
 - A fallback style sheet referencing the generated PNG (in case you have to support browsers that don't like data URIs). You can find that at 'icons.fallback.css' 
 - A preview HTML file showing what you created
-
-## Usage instructions
-
-1. Place any SVGs into the 'svgs' folder within this project.
-2. Open this folder (e.g. 'SVGoptimiser') in the Terminal
-3. If you already have a 'pngs' folder in the root run this command `grunt clean`. That will remove any prior PNG images
-4. Now run `grunt` - after a short space of time, you should see a message `Done, without errors`. Your assets are now created.
